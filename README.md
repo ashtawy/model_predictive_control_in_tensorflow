@@ -5,8 +5,9 @@ Model Predictive Control is an important tool in self-driving cars. It is used t
 
 The following plots show the results from the Python/TensorFlow and C++/IPOPT implementations, respectively.
 
-# [Python and TensorFlow Optimal Control Results](./model_predictive_control_in_tensorflow.ipynb):
+## [Python and TensorFlow Optimal Control Results](./model_predictive_control_in_tensorflow.ipynb):
 <p align="center"> <img src="./python_tf_results.png"> </p>
 
-# C++ and Eigen/Ipopt Optimal Control Results](./src/MPC.cpp):
+
+## [C++ and Eigen/Ipopt Optimal Control Results](./src/MPC.cpp):
 <p align="center"> <img src="./cpp_ipopt_results.png"> </p>  
